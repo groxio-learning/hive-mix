@@ -26,13 +26,14 @@ Topics (ADD)
   * [x] application.ex
   * [x] LiveView
   * [ ] Open Telemetry
+  * [ ] Crash the atom table :D
   * [x] Usage Rules
   * [ ] GraphQL
     * [ ] Batch
 * LLM
   * [x] throw it away
   * [x] Red/Green indicators
-  * [ ] Skills
+  * [x] Skills
   * [x] Tidewave
 
 <!-- livebook:{"break_markdown":true} -->
