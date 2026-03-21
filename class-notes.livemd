@@ -28,8 +28,8 @@ Topics (ADD)
   * [ ] Open Telemetry
   * [ ] Crash the atom table :D
   * [x] Usage Rules
-  * [ ] GraphQL
-    * [ ] Batch
+  * [x] GraphQL
+    * [x] Batch
 * LLM
   * [x] throw it away
   * [x] Red/Green indicators
